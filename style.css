@@ -6,13 +6,13 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #fff9f0;
+  background-color: #91de8f;
   color: #333;
   padding: 20px;
 }
 
 header {
-  background-color: #d35400;
+  background-color: #28df0c;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -23,13 +23,13 @@ section {
   margin: 30px 0;
   background-color: #fff;
   padding: 20px;
-  border-left: 5px solid #e67e22;
+  border-left: 5px solid #0ce237;
   border-radius: 4px;
 }
 
 h2 {
   margin-bottom: 10px;
-  color: #d35400;
+  color: #0ce237;
 }
 
 ul {
@@ -42,6 +42,6 @@ li {
 
 footer {
   text-align: center;
-  color: #777;
+  color: #323332;
   margin-top: 40px;
 }
