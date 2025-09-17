@@ -6,13 +6,13 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #91de8f;
+  background-color: #8f9bde;
   color: #333;
   padding: 20px;
 }
 
 header {
-  background-color: #36c922;
+  background-color: #2238c9;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -23,7 +23,7 @@ section {
   margin: 30px 0;
   background-color: #fff;
   padding: 20px;
-  border-left: 5px solid #0ce237;
+  border-left: 5px solid #0c10e2;
   border-radius: 4px;
 }
 
