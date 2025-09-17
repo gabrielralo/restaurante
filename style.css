@@ -45,6 +45,9 @@ footer {
   color: #323332;
   margin-top: 40px;
 }
-img{
-  width 5%'diminui tamanho'
+img {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
