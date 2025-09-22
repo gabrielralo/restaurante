@@ -59,12 +59,23 @@ img {
     <title>Imagens Lado a Lado</title>
     <style>
         .container {
-            display: flex; /* Faz as imagens ficarem lado a lado */
-            justify-content: space-between; /* Espaçamento entre as imagens */
-            gap: 10px; /* Espaçamento entre as imagens */
+            display: flex; /* Coloca as imagens em linha (horizontal) */
+            gap: 10px; /* Espaço entre as imagens */
         }
 
         .container img {
-            width: 30%; /* Definindo largura das imagens */
-            height: aut
-e
+            width: 30%; /* Defina a largura de cada imagem */
+            height: auto; /* Mantém a proporção das imagens */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="imagem1.jpg" alt="Imagem 1">
+        <img src="imagem2.jpg" alt="Imagem 2">
+        <img src="imagem3.jpg" alt="Imagem 3">
+    </div>
+
+</body>
+</html>
