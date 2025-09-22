@@ -51,27 +51,3 @@ img {
   margin-right: auto;
   width: 50%;
 }
-body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f0f0f0;
-}
-
-.imagens-container {
-    display: flex;
-    justify-content: space-between;
-    width: 80%;
-    max-width: 900px;
-}
-
-.imagem {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    max-width: 300px; /* Tamanho máximo das imagens */
-}
-
