@@ -51,3 +51,20 @@ img {
   margin-right: auto;
   width: 50%;
 }
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens Lado a Lado</title>
+    <style>
+        .container {
+            display: flex; /* Faz as imagens ficarem lado a lado */
+            justify-content: space-between; /* Espaçamento entre as imagens */
+            gap: 10px; /* Espaçamento entre as imagens */
+        }
+
+        .container img {
+            width: 30%; /* Definindo largura das imagens */
+            height: aut
+e
