@@ -51,31 +51,3 @@ img {
   margin-right: auto;
   width: 50%;
 }
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagens Lado a Lado</title>
-    <style>
-        .container {
-            display: flex; /* Coloca as imagens em linha (horizontal) */
-            gap: 10px; /* Espaço entre as imagens */
-        }
-
-        .container img {
-            width: 30%; /* Defina a largura de cada imagem */
-            height: auto; /* Mantém a proporção das imagens */
-        }
-    </style>
-</head>
-<body>
-
-    <div class="container">
-        <img src="imagem1.jpg" alt="Imagem 1">
-        <img src="imagem2.jpg" alt="Imagem 2">
-        <img src="imagem3.jpg" alt="Imagem 3">
-    </div>
-
-</body>
-</html>
